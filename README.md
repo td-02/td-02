@@ -1,27 +1,23 @@
-## Hi there, I'm @td-02 👋
+<h1 align="center">Hi 👋, I'm Tapesh Chandra Das</h1>
+<h3 align="center">A Computer Science student from India</h3>
 
-### About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=td-02&label=Profile%20views&color=0e75b6&style=flat" alt="td-02" /> </p>
 
-- **Interests**: I'm passionate about Deep Learning and Machine Learning. I enjoy exploring new technologies and applying them to solve real-world problems.
-- **Currently Learning**: I'm currently expanding my knowledge and skills in Deep Learning, exploring advanced neural network architectures and their applications.
-- **Projects**: You can find a range of projects in my repositories, from personal projects to collaborative ones. These include applications in data science, machine learning, and other areas of interest.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=td-02" alt="td-02" /></a> </p>
 
-### Skills
+- 🌱 I’m currently learning **Machine learning, Deep learning**
 
-- **Programming Languages**: Python, R
-- **Machine Learning Frameworks**: TensorFlow, PyTorch, scikit-learn
-- **Data Analysis and Visualization**: pandas, NumPy, Matplotlib, Seaborn
-- **Other**: Data preprocessing, model evaluation, feature engineering
+- 📫 How to reach me **tapeshdas2002@gmail.com**
 
-### Get in Touch
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-- **Email**: [tapeshdas2002@gmail.com](mailto:tapeshdas2002@gmail.com)
-- **LinkedIn**: [Tapesh Chandra Das](https://www.linkedin.com/in/tapesh-chandra-das-9892b2215)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### How You Can Support My Work
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=td-02&show_icons=true&locale=en&layout=compact" alt="td-02" /></p>
 
-- ⭐ **Star**: If you find my work helpful or interesting, consider starring my repositories.
-- 📢 **Share**: Share my repositories with others who might find them useful.
-- 📧 **Reach Out**: Feel free to contact me if you have any questions, want to collaborate, or just want to chat about machine learning and deep learning.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=td-02&show_icons=true&locale=en" alt="td-02" /></p>
 
-Thank you for visiting my GitHub profile! Be sure to check out my repositories for projects I'm currently working on or have completed. Happy coding!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=td-02&" alt="td-02" /></p>
