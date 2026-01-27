@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tapesh Chandra Das</h1>
-<h3 align="center">A Computer Science student from India</h3>
+<h3 align="center">A Software Developer from India</h3>
 
 - 🌱 I’m currently learning **Machine learning, Deep learning**
 
